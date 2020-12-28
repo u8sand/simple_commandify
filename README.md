@@ -33,6 +33,8 @@ if __name__ == '__main__':
 Step 3. Profit
 
 ## Alternatives
+- click: https://click.palletsprojects.com/en/7.x/
+  Frankly what I use instead of this project, a bit more intrusive than I'd like but easy and fully featured.
 - clize: https://clize.readthedocs.io/en/stable/
   More traditional command-line syntax, but more strict with the format of your function args and docstring.
 - commandify: https://pypi.org/project/commandify/
